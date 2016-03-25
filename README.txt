@@ -1,3 +1,3 @@
 //
-small project 
-working with file handling in c++
+small project in c++
+working with file handling concept of c++
